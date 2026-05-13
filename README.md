@@ -11,11 +11,11 @@ A local multimodal extension for Chrome. It allows you to select any part of you
 Activate the interface with `Cmd+Shift+Y`. Drawing a rectangle over an area captures the visual context. I built the selection layer using a transparent canvas to keep the interaction fluid and precise.
 
 ### 2. Vision & Reasoning
-![Vision Reasoning](Gifs/2nd.gif)
+![Vision Reasoning](Gifs/3rd.gif)
 The captured pixels are sent to a local **LLaVA** instance via Ollama. It interprets the image and provides an answer within a minimalist, floating UI.
 
 ### 3. Memory & Follow-ups
-![Follow-up Flow](Gifs/3rd.gif)
+![Follow-up Flow](Gifs/2nd.gif)
 The system maintains a conversation buffer. You can ask follow-up questions about the same image without re-selecting it, allowing for a more natural dialogue with the visual data.
 
 ---
