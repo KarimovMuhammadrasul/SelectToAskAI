@@ -4,6 +4,17 @@ A local multimodal extension for Chrome. It allows you to select any part of you
 
 ---
 
+<table border="0" style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; padding:5px;">
+      <img src="https://github.com/user-attachments/assets/05f5dea6-c1c0-4a5e-9824-b23c984dba9b" alt="Left Image" style="width:100%;">
+    </td>
+    <td style="width:50%; padding:5px;">
+      <img src="https://github.com/user-attachments/assets/5a867a83-6c69-421a-b6dc-6056a12ae71e" alt="Right Image" style="width:100%;">
+    </td>
+  </tr>
+</table>
+
 ## How it works
 
 ### 1. Selection
@@ -41,6 +52,4 @@ The project is currently configured for local testing to ensure privacy and zero
    * Enable **Developer Mode**
    * Click **Load Unpacked** and select this project folder.
 
----
 
-**Muhammadrasul Karimov** *Student at the Presidential School in Fergana. Focused on Edge AI and Competitive Programming.*
