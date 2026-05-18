@@ -53,3 +53,5 @@ The project is currently configured for local testing to ensure privacy and zero
    * Click **Load Unpacked** and select this project folder.
 
 
+[Full demo video](https://streamable.com/ercea2)
+
